@@ -1,0 +1,16 @@
+{
+  "name": "Valji & Brothers",
+  "short_name": "Valji Group",
+  "description": "Industrial supplies, gases and service since 1968.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f3ee",
+  "theme_color": "#111b3f",
+  "icons": [
+    {
+      "src": "assets/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
